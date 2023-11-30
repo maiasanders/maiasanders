@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### I'm Maia (she/her), and I'm in the process of learning Java. In addition to working on my coding, I have a background in fine arts and biology, and I'm your pretty standard nerd.
 <!--
 **maiasanders/maiasanders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
